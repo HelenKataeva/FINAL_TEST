@@ -1,0 +1,25 @@
+/Users/alena/Desktop/обучение/FINAL /Task/bin/Debug/net8.0/Task
+/Users/alena/Desktop/обучение/FINAL /Task/bin/Debug/net8.0/Task.deps.json
+/Users/alena/Desktop/обучение/FINAL /Task/bin/Debug/net8.0/Task.runtimeconfig.json
+/Users/alena/Desktop/обучение/FINAL /Task/bin/Debug/net8.0/Task.dll
+/Users/alena/Desktop/обучение/FINAL /Task/bin/Debug/net8.0/Task.pdb
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.sourcelink.json
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.dll
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/refint/Task.dll
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.pdb
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/Task.genruntimeconfig.cache
+/Users/alena/Desktop/обучение/FINAL /Task/obj/Debug/net8.0/ref/Task.dll
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/bin/Debug/net8.0/Task
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/bin/Debug/net8.0/Task.dll
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/bin/Debug/net8.0/Task.pdb
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.dll
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/refint/Task.dll
+/Users/alena/Documents/обучение/Основной блок Введение /FINAL_TEST_ОСН_БЛОК/Task/obj/Debug/net8.0/Task.pdb
